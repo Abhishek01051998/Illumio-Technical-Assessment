@@ -39,7 +39,7 @@ This program parses flow logs, matches destination ports and protocols to tags f
 2. **Run the script**:
    Run the script by executing the following command:
    ```bash
-   python flow_log_parser.py
+   python Assessment.py
 3. **Assumptions and Limitations**:
    - The flow log format must strictly follow the default log format; custom log formats are not supported.
    - Only version 2 of the flow log format is supported.
